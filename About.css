@@ -1,0 +1,230 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 795px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: -80px;
+  background-image: none;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 675px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 23px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  width: 183px;
+  margin: 59px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 2;
+  font-size: 1rem;
+  margin: 33px 7px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.875rem;
+  border-style: solid;
+  background-image: none;
+  margin: 40px auto 0;
+  padding: 17px 54px 18px 53px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 675px;
+  background-image: url("images/87159967df0067a5488329c8f6798293ce3e77ade49aff745523ee191838314a6c91b7d564ad85434b62a2679792d53515d6e924efbb3cc22749fa_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 677px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 557px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 557px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 547px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 427px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 861px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 641px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 777px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    width: 126px;
+    margin-top: 61px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 31px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 404px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 611px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 70px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+  min-height: 252px;
+  grid-gap: 10px 10px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 223px;
+  width: 223px;
+  background-image: url("images/pexels-raheem-oluwadamilare-10239356.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-2 .u-image-2 {
+  height: 223px;
+  width: 223px;
+  background-image: url("images/pexels-samad-ismayilov-804009.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-2 .u-image-3 {
+  height: 223px;
+  width: 223px;
+  background-image: url("images/pexels-mark-john-hilario-12771773.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-2 .u-image-4 {
+  height: 223px;
+  width: 223px;
+  background-image: url("images/pexels-anastasia-tooming-11491188.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  width: 619px;
+  margin: 44px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 259px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(4, calc(25% - 7.5px));
+    min-height: 208px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 637px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    width: 340px;
+  }
+}
